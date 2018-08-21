@@ -1,0 +1,48 @@
+{
+  "_from": "dpd-jwt",
+  "_id": "dpd-jwt@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-LaG5AEAFAH48pcLpAxdeUFQ5LwU=",
+  "_location": "/dpd-jwt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "dpd-jwt",
+    "name": "dpd-jwt",
+    "escapedName": "dpd-jwt",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dpd-jwt/-/dpd-jwt-1.0.2.tgz",
+  "_shasum": "2da1b9004005007e3ca5c2e903175e5054392f05",
+  "_spec": "dpd-jwt",
+  "_where": "C:\\Users\\gustavo.penayo\\Documents\\devOps\\cobrast-api",
+  "author": {
+    "name": "tenowg"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jsonwebtoken": "^5.7.0"
+  },
+  "deprecated": false,
+  "description": "JWT token generator/validation Resource",
+  "keywords": [
+    "jwt",
+    "webtoken",
+    "dpd",
+    "deployd"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "dpd-jwt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
